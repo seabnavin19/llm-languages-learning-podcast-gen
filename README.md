@@ -3,7 +3,7 @@ This project I use LLm model from Openai and combine it with Langchain to build 
 the podcast which you can be listening and practice what you have learned using AI.
 
 ## Blog Post
-Medium: 
+Medium: https://medium.com/@seabgreatnavin/how-i-build-an-llm-application-that-helps-me-learn-new-languages-3d5598d02fb7
 
 ## How to run the application
 
